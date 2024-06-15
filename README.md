@@ -1,2 +1,0 @@
-# pythonlesson
-Валідація Email
